@@ -1,0 +1,19 @@
+.my-flex {
+  display: flex;
+  justify-content: center;
+  border: 1px solid red;
+  align-items: center;
+
+  .img {
+    width: 100px;
+    height: 100px;
+  }
+
+  .name-container {
+    padding: 5px;
+  }
+
+  .img-container {
+    padding: 5px;
+  }
+}
